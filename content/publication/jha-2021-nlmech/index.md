@@ -11,7 +11,7 @@ date: "2021-09-29"
 doi: "10.21105/joss.03020"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2021-09-29"
 
 # Publication type.
 publication_types: ["article-journal"]
@@ -34,6 +34,6 @@ featured: true
 
 # links:
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/nonlocalmodels/NLMech'
 url_source: 'https://doi.org/10.21105/joss.03020'
 ---

@@ -11,7 +11,7 @@ date: "2023-04-01"
 doi: "10.1007/s00205-023-01869-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2023-04-01"
 
 # Publication type.
 publication_types: ["article-journal"]

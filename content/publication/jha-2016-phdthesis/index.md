@@ -6,10 +6,10 @@ authors:
 author_notes:
 - "Corresponding author"
 date: "2016-08-01"
-doi: "10.1016/j.cma.2021.113975"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2016-08-01"
 
 # Publication type.
 publication_types: ["PhD Thesis"]

@@ -4,7 +4,7 @@ title: 'Modeling tumor growth, angiogenesis, drug-therapy, metastasis'
 summary: 'Development and analysis of models of tumor growth, angiogenesis, drug therapy, and metastasis'
 
 # Data
-date: '2025-01-01'
+date: '2022-01-01'
 
 # authors: ['Prashant K. Jha']
 tags: ['Tumor Modeling', 'Angiogenesis', 'Computational Oncology', 'Multiphysics Modeling']

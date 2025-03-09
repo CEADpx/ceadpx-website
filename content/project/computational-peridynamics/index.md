@@ -4,7 +4,7 @@ title: 'Computational methods for nonlocal models'
 summary: 'Develop efficient and parallel computational methods for class of nonlocal models such as Peridynamics and nonlocal diffusion equations'
 
 # Data
-date: '2025-01-01'
+date: '2022-01-01'
 
 # authors: ['Prashant K. Jha']
 tags: ['Peridynamics', 'Nonlocal Methods', 'Multiphysics', 'Numerical Method']

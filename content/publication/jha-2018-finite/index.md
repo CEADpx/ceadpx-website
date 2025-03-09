@@ -11,10 +11,10 @@ date: "2019-01-11"
 doi: "10.1007/978-3-319-22977-5_44-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2019-01-11"
 
 # Publication type.
-publication_types: ["Book Chapter"]
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Handbook of Nonlocal Continuum Mechanics for Materials and Structures*"

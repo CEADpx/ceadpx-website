@@ -10,7 +10,7 @@ date: "2018-04-10"
 doi: "10.1137/17M11122365"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2018-04-10"
 
 # Publication type.
 publication_types: ["article-journal"]

@@ -11,7 +11,7 @@ date: "2020-11-01"
 doi: "10.1007/s00466-020-01889-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2020-11-01"
 
 # Publication type.
 publication_types: ["article-journal"]
@@ -35,6 +35,6 @@ featured: true
 
 # links:
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/prashjha/BayesForSEIRD'
 url_source: 'https://doi.org/10.1007/s00466-020-01889-z'
 ---

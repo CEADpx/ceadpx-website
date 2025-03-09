@@ -11,7 +11,7 @@ date: "2021-06-24"
 doi: "10.1109/IPDPSW52791.2021.00103"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2021-06-24"
 
 # Publication type.
 publication_types: ["paper-conference"]

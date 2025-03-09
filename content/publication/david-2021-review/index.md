@@ -18,7 +18,7 @@ date: "2021-06-16"
 doi: "10.3390/cancers13123008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2021-07-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

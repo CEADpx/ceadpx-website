@@ -10,7 +10,7 @@ date: "2022-12-01"
 doi: "10.1016/j.jcp.2022.111575"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2022-12-01"
 
 # Publication type.
 publication_types: ["article-journal"]

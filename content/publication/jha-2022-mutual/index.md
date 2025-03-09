@@ -21,7 +21,7 @@ date: "2022-06-24"
 doi: "10.1038/s41598-023-44958-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2022-06-24"
 
 # Publication type.
 publication_types: ["article-journal"]

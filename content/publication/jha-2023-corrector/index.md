@@ -9,7 +9,7 @@ date: "2023-06-21"
 doi: "10.1016/j.cma.2023.116595"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2023-06-21"
 
 # Publication type.
 publication_types: ["article-journal"]

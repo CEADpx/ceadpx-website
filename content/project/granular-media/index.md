@@ -4,7 +4,7 @@ title: 'Study of granular media'
 summary: 'Study properties of granular media using computational methods'
 
 # Data
-date: '2025-01-01'
+date: '2022-01-01'
 
 # authors: ['Prashant K. Jha']
 tags: ['Granular Media', 'PeriDEM', 'Contact Mechanics', 'DEM']

@@ -19,10 +19,10 @@ date: "2020-06-01"
 doi: "10.1137/17M11122365"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2020-06-01"
 
 # Publication type.
-publication_types: ["Report Unpublished"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Oden Institute Report*"

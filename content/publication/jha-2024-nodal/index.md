@@ -11,7 +11,7 @@ date: "2024-03-11"
 doi: "10.1016/j.cma.2024.117519"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2024-03-11"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
