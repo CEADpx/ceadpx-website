@@ -1,0 +1,61 @@
+# ----------------------------------
+# Copyright (c) 2021 Prashant K. Jha
+# ----------------------------------
+#
+# Distributed under the Boost Software License, Version 1.0. (See accompanying
+# file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:0.145.0
+
+    steps:
+      - run:
+          name: "Run Hugo"
+          command: |
+            echo "#-----------------------------#"
+            echo "Install key libraries"
+            echo "#-----------------------------#"
+            sudo apt-get install -y ca-certificates
+            sudo apt-get install -y git
+            echo "#-----------------------------#"
+            echo "Hugo version"
+            echo "#-----------------------------#"
+            hugo version
+            echo "#-----------------------------#"
+            echo "Git config"
+            echo "#-----------------------------#"
+            git config --global user.email "pjha.sci@gmail.com"
+            git config --global user.name "Prashant K. Jha"
+            echo "#-----------------------------#"
+            echo "Clone repo"
+            echo "#-----------------------------#"
+            git clone https://github.com/CEADpx/ceadpx-website.git
+            cd ceadpx-website
+            echo "#-----------------------------#"
+            echo "Clone github pages repo in a public folder"
+            echo "#-----------------------------#"
+            git clone https://github.com/CEADpx/ceadpx.github.io.git public
+            echo "#-----------------------------#"
+            echo "Clean public folder"
+            echo "#-----------------------------#"
+            cd public
+            git rm -r .
+            git commit -m "cleaning"
+            echo "#-----------------------------#"
+            echo "Run hugo"
+            echo "#-----------------------------#"
+            cd ..
+            HUGO_ENV="production"  hugo -F
+            echo "#-----------------------------#"
+            echo "Commit new files into github pages repo"
+            echo "#-----------------------------#"
+            cd public
+            git add .
+            git commit --allow-empty -m "update" 
+            echo "#-----------------------------#"
+            echo "Push updates to github pages repo"
+            echo "#-----------------------------#"
+            git push -q https://${G_TOKEN}@github.com/CEADpx/ceadpx.github.io.git main

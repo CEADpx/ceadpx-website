@@ -15,7 +15,18 @@ sections:
         <br>
         
         The **CEAD Lab** at South Dakota Mines is created with a vision to address challenging problems of modeling, analysis, and design in engineering fields, including fracture and failure in materials, functional soft materials, and granular materials.
-
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title:
