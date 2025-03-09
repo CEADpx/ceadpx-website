@@ -5,3 +5,10 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# from mac
+._*
+*/._*
+
+.DS_Store
+*/.DS_Store/*

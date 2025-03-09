@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-03-08
 
 type: landing
 
@@ -13,31 +13,51 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.png
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+          color: '#a4a832'
+      - title: FRACTURE MECHANICS
+        content: 'Mathematical modeling of fracture in advanced materials such as composites and functional soft materials using Peridynamics and variational phase-field methods.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: FractureMechanics.png
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+          color: '#a4a832'
+      - title: MECHANICS OF GRANULAR MEDIA
+        content: 'High-fidelity and mix-fidelity modeling of granular media, treating particles as deformable solids and representing complex inter-particle interactions.'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: GranularMedia.png
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
-          color: '#333'
+          color: '#a4a832'
+      - title: NEURAL NETWORKS IN ENGINEERING
+        content: 'Real-world applications of neural networks and operators as a surrogates, while addressing the limitations of neural networks.'
+        align: left
+        background:
+          image:
+            filename: NeuralNetworks.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#a4a832'
+      - title: OPTIMIZATION OF SMART MATERIALS
+        content: 'Analysis and design of so-called smart or functional materias. Our current focus includes modeling of magnetic soft materials guided by multiscale analysis and experimental observations and the design of such materials using topology optimization.'
+        align: right
+        background:
+          image:
+            filename: TopologyOptimization.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#a4a832'
         link:
           icon: graduation-cap
           icon_pack: fas

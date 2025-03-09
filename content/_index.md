@@ -1,22 +1,44 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-01-01
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Computational Engineering Analysis and Design (CEAD) Lab
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        The **CEAD Lab** at South Dakota Mines is created with a vision to address challenging problems of modeling, analysis, and design in engineering fields, including fracture and failure in materials, functional soft materials, and granular materials.
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        <br> We are actively seeking enthusiastic undergraduate and graduate students interested in computational mechanics and applying advanced numerical and machine learning-based methods to problems in fracture mechanics, functional soft materials, and granular materials.
+        {{% cta cta_link="./contact/" cta_text="Interested candidates should email me here!" %}}
+    design:
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '1'
+
   - block: collection
     content:
       title: Latest News
@@ -45,9 +67,9 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: welcome.png
           filters:
-            brightness: 1
+            brightness: 0.8
           parallax: false
           position: center
           size: cover
@@ -55,19 +77,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:

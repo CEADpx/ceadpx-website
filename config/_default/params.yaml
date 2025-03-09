@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,10 +18,10 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Computational Engineering Analysis and Design Lab.'
+    twitter: 'prashant_jha16'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-132780463-3'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -39,13 +39,13 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Prashant K. Jha. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -63,7 +63,7 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/CEADpx/ceadpx-website.git'
     content_dir: content
     branch: main
   avatar:
@@ -91,7 +91,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: google
     algolia:
       app_id: ''
       api_key: ''
