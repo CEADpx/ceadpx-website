@@ -21,7 +21,7 @@ marketing:
     description: 'Computational Engineering Analysis and Design Lab.'
     twitter: 'prashant_jha16'
   analytics:
-    google_analytics: 'G-YEN05P0HP6'
+    google_analytics: 'G-XL3LW6J0HK'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/CEADpx/ceadpx-website.git'
+    url: ''
     content_dir: content
     branch: main
   avatar:
