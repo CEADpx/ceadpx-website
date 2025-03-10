@@ -52,4 +52,4 @@ user_groups:
   - Researchers
 ---
 
-Ian is a undergraduate student and a member of CEAD Lab. His focus is on design of magnetic soft materials. 
+Ian is an undergraduate student and a member of CEAD Lab. His focus is on design of magnetic soft materials. 

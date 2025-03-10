@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **CEAD Lab** at South Dakota Mines is created with a vision to address challenging problems of modeling, analysis, and design in engineering fields, including fracture and failure in materials, functional soft materials, and granular materials.
+        The CEAD Lab at South Dakota Mines, created and led by PI Prashant K. Jha, aims to address challenging problems of modeling, analysis, and design in engineering fields. Broadly, we are interested in fracture and failure in materials, functional soft materials, and granular materials. 
     design:
       css_class: dark
       background:

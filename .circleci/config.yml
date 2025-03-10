@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - run:
-          name: "Run Hugo"
+          name: "Setup"
           command: |
             echo "#-----------------------------#"
             echo "Install key libraries"
@@ -29,6 +29,10 @@ jobs:
             echo "#-----------------------------#"
             git config --global user.email "pjha.sci@gmail.com"
             git config --global user.name "Prashant K. Jha"
+            git config --global user.name "prashjha"
+      - run:
+          name: "Build website and push"
+          command: |
             echo "#-----------------------------#"
             echo "Clone repo"
             echo "#-----------------------------#"
