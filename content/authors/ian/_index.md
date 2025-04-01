@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ian is currently working on design of mangnetic soft materials.
+bio: Ian is currently working on design of magnetic soft materials.
 
 interests:
   - Solid Mechanics
@@ -42,6 +42,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ian.galloway@mines.sdsmt.edu'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/ian-g8'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/ian-galloway-99b87925a/'
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -52,4 +59,4 @@ user_groups:
   - Researchers
 ---
 
-Ian is an undergraduate student and a member of CEAD Lab. His focus is on design of magnetic soft materials. 
+Ian is an undergraduate student at South Dakota School of Mines, and a member of CEAD Lab. He is also member of the Formula SAE team at school, as well as part of the school jazz band. His research focus is on topology optimization and design of magnetic soft materials. 
