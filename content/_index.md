@@ -7,32 +7,45 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Computational Engineering Analysis and Design (CEAD) Lab
       image:
         filename: welcome.png
       text: |
-        <br>
         
-        The CEAD Lab at South Dakota Mines, created and led by PI Prashant K. Jha, aims to address challenging problems of modeling, analysis, and design in engineering fields. Broadly, we are interested in fracture and failure in materials, functional soft materials, and granular materials. 
+        The **Computational Engineering Analysis & Design (CEAD) Lab** at South Dakota Mines, led by Dr. Prashant K. Jha, addresses complex challenges in modeling, simulation, and design across engineering disciplines. Our work spans fracture and failure mechanics, functional soft materials such as magnetic and dielectric polymers, and the mechanics of granular and heterogeneous materials. We also develop neural operators and machine learning methods for scientific computing, with a focus on controlling and quantifying approximation errors. By combining advanced computational methods with innovative design strategies, we aim to deepen understanding of material behavior and deliver solutions for demanding real-world applications.
+    # design:
+      # css_class: dark
+      # background:
+      #   color: black
+      #   image:
+      #     # Add your image background to `assets/media/`.
+      #     filename: stacked-peaks.svg
+      #     filters:
+      #       brightness: 1.0
+      #     size: cover
+      #     position: center
+      #     parallax: false
+  - block: markdown
+    content:
+      title: Focus areas
+      text: |
+        **Fracture Mechanics:** Fracture and fatigue in complex materials, e.g., soft composites, functional materials
+        
+        **Granular Media Mechanics:** High and multi-fidelity mechanics simulation of particles under significant loading
+
+        **Neural Networks/Operators for Scientific Computing:** Application of neural operators as surrogate of PDE-based problems and error estimation and control of neural operator surrogates
+
+        **Analysis and Design of Smart Materials:** Microstructure-property relation and design of novel materials such as magnetically and electrically active soft materials
+
+        ![](focus_areas.png)
+
     design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      columns: '1'
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        <br> We are actively seeking enthusiastic undergraduate and graduate students interested in computational mechanics and applying advanced numerical and machine learning-based methods to problems in fracture mechanics, functional soft materials, and granular materials.
+        We are actively seeking enthusiastic undergraduate and graduate students interested in computational mechanics and applying advanced numerical and machine learning-based methods to problems in fracture mechanics, functional soft materials, and granular materials.
         {{% cta cta_link="./contact/" cta_text="Interested candidates should email me here!" %}}
     design:
       columns: '1'
@@ -69,25 +82,25 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: welcome.png
-          filters:
-            brightness: 0.8
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     # background:
+  #     #   image: 
+  #     #     filename: icon.png
+  #     #     filters:
+  #     #       brightness: 0.8
+  #     #     parallax: false
+  #     #     position: center
+  #     #     size: cover
+  #     #     text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 
   - block: markdown
     content:
