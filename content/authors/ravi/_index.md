@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 I am a Ph.D. student in the Department of Mechanical Engineering at the South Dakota School of Mines and Technology. Before beginning my doctoral studies, I earned my M.S. in Mechanical Engineering from the University of New Haven and my B-Tech in Mechanical (Automobile) Engineering from KIIT University, India. I have over two and a half years of professional experience in automotive systems, mechatronics, robotics, and manufacturing process optimization.

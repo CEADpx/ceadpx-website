@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - ''
+  - Postdoctoral Fellows
 ---
 
 I am an incoming Postdoctoral Fellow in the Computational Engineering Analysis and Design (CEAD) Lab within Leslie A. Rose Department of Mechanical Engineering, South Dakota School of Mines and Technology. Before this position, I worked at the Computational Mechanics Research Laboratory at Johns Hopkins University. I received my PhD in Aerospace Engineering from the Indian Institute of Technology Kanpur.

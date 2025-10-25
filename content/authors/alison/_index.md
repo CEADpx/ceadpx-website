@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - UG Researchers
 ---
 
 Alison is an undergraduate student at South Dakota School of Mines, and a member of CEAD Lab. Her research focus is on computational modeling of fracture and fatigue in magnetic soft materials. 
