@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Aalok Jha from Johsn Hopkins University will join our lab as a Postdoctoral Fellow starting November 2025'
+title: 'Dr. Aalok Jha from Johns Hopkins University will join our lab as a Postdoctoral Fellow starting November 2025'
 
 authors: [admin]
 date: '2025-10-24'
