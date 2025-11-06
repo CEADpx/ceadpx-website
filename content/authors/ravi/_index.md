@@ -69,7 +69,7 @@ user_groups:
   - Grad Students
 ---
 
-I am a Ph.D. student in the Department of Mechanical Engineering at the South Dakota School of Mines and Technology. Before beginning my doctoral studies, I earned my M.S. in Mechanical Engineering from the University of New Haven and my B-Tech in Mechanical (Automobile) Engineering from KIIT University, India. I have over two and a half years of professional experience in automotive systems, mechatronics, robotics, and manufacturing process optimization.
+I am a Ph.D. student in the Leslie A. Rose Department of Mechanical Engineering at the South Dakota School of Mines and Technology. Before beginning my doctoral studies, I earned my M.S. in Mechanical Engineering from the University of New Haven and my B-Tech in Mechanical (Automobile) Engineering from KIIT University, India. I have over two and a half years of professional experience in automotive systems, mechatronics, robotics, and manufacturing process optimization.
 
 My professional background includes roles such as Process Engineer Intern at Thai Summit America Corporation, where I specialized in process simulation, die tryouts, and downtime reduction, and Service and ADAS Calibration Engineer, where I resolved complex vehicle system challenges and enhanced diagnostic efficiency. I have also conducted academic projects in areas such as PID-controlled master-slave robotic arms and hierarchical lattice structure design via additive manufacturing.
 

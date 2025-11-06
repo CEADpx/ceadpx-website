@@ -10,7 +10,7 @@ sections:
       image:
         filename: welcome.png
       text: |
-        The **Computational Engineering Analysis & Design (CEAD) Lab** at South Dakota Mines, led by Dr. Prashant K. Jha, addresses complex challenges in modeling, simulation, and design across engineering disciplines. Our work spans fracture and failure mechanics, functional soft materials such as magnetic and dielectric polymers, and the mechanics of granular and heterogeneous materials. We also develop neural operators and machine learning methods for scientific computing, with a focus on controlling and quantifying approximation errors. By combining advanced computational methods with innovative design strategies, we aim to deepen understanding of material behavior and deliver solutions for demanding real-world applications.
+        The **Computational Engineering Analysis & Design (CEAD) Lab** within Leslie A. Rose Department of Mechanical Engineering at South Dakota Mines, led by Dr. Prashant K. Jha, addresses complex challenges in modeling, simulation, and design across engineering disciplines. Our work spans fracture and failure mechanics, functional soft materials such as magnetic and dielectric polymers, and the mechanics of granular and heterogeneous materials. We also develop neural operators and machine learning methods for scientific computing, with a focus on controlling and quantifying approximation errors. By combining advanced computational methods with innovative design strategies, we aim to deepen understanding of material behavior and deliver solutions for demanding real-world applications.
   - block: markdown
     content:
       title: Focus areas
