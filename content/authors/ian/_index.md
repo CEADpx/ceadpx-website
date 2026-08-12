@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher
+role: Graduate Researcher
 
 # Organizations/Affiliations
 organizations:
