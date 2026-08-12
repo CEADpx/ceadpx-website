@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - UG Researchers
+  - Grad Students
 ---
 
 Ian is an undergraduate student at South Dakota School of Mines, and a member of CEAD Lab. He is also member of the Formula SAE team at school, as well as part of the school jazz band. His research focus is on topology optimization and design of magnetic soft materials. 
