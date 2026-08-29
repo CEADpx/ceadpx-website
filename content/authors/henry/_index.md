@@ -67,4 +67,4 @@ user_groups:
   - Grad Students
 ---
 
-Henry is an graduate student at South Dakota School of Mines, and a member of CEAD Lab. His research focus is on computational modeling of the cohesion effect at the interfacial boundary between stiff particles and a hyper-elastic media that the particles are suspended in for magnetic soft materials.
+Henry is a graduate student at South Dakota Mines, and a member of CEAD Lab. His research focus is on computational modeling of the cohesion effect at the interfacial boundary between stiff particles and a hyper-elastic media that the particles are suspended in for magnetic soft materials.
