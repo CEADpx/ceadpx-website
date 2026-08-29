@@ -59,4 +59,4 @@ user_groups:
   - Grad Students
 ---
 
-Ian is a graduate student at South Dakota Mines and a member of the CEAD Lab. He is also a member of the university’s Formula SAE team and jazz band. His research focuses on topology optimization and the design of magnetic soft materials.
+Ian is a graduate student at South Dakota Mines and a member of CEAD Lab. He is also member of the Formula SAE team at school, as well as part of the school jazz band. His research focus is on topology optimization and design of magnetic soft materials. 
